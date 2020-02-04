@@ -1,0 +1,5 @@
+ContactRequest.class
+ContactHandler.class
+ContactResponse.class
+Contact.class
+GetContactHandler.class
